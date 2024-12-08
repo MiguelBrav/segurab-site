@@ -19,15 +19,11 @@
     {
       "name": "FAQ",
       "url": "/faq"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
     }
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "Consult",
       "menu": [
         {
           "text": "Pricing",
@@ -40,19 +36,11 @@
       ]
     },
     {
-      "name": "Product",
+      "name": "Blog",
       "menu": [
         {
-          "text": "Features",
-          "url": "#"
-        },
-        {
-          "text": "Platform",
-          "url": "#"
-        },
-        {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Entries",
+          "url": "/blog"
         }
       ]
     },

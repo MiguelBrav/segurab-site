@@ -1,4 +1,4 @@
 ---
-title: "Latest news"
-description: "this is meta description"
+title: "Latest News"
+description: "Stay updated with the latest news and insights from the blog - Segurab"
 ---

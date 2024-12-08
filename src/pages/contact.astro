@@ -14,7 +14,7 @@ const { title, description, info } = entry?.data;
     <div class="container">
       <h1 class="text-center font-normal" set:html={markdownify(title)} />
       <div class="section row pb-0">
-        <div class="col-12 md:col-6 lg:col-7">
+        <!-- <div class="col-12 md:col-6 lg:col-7">
           <form class="contact-form" method="POST" action={contact_form_action}>
             <div class="mb-3">
               <input
@@ -51,8 +51,8 @@ const { title, description, info } = entry?.data;
             </div>
             <button type="submit" class="btn btn-primary"> Send Now</button>
           </form>
-        </div>
-        <div class="content col-12 md:col-6 lg:col-5">
+        </div> -->
+        <div class="content col-12 md:col-12 lg:col-12">
           <h4 set:html={markdownify(info?.title)} />
           <p class="mt-4" set:html={markdownify(info?.description)} />
           <ul class="contact-list mt-5 list-none pl-0">

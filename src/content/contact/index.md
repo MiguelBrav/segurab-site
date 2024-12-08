@@ -2,11 +2,10 @@
 title: "Contact Us"
 draft: false
 info: 
-  title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+  title: Contact Us for More Information!
+  description: We’d love to hear from you. If you have any questions, suggestions, or need support, feel free to reach out. Whether you're looking for more information about our services, we're here to help.
   contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+    - "Mail: [miguel@segurab.com](mailto:miguel@segurab.com)"
+    - "Address: México"
 ---
 

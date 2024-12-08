@@ -8,6 +8,7 @@ const getData = (folder) => {
   const getPath = fs.readdirSync(path.join(folder));
   const sanitizeData = getPath.filter((item) => item.includes(".md"));
   const filterData = sanitizeData.filter((item) => item.match(/^(?!_)/));
+  
   const getData = filterData.map((filename) => {
     const file = fs.readFileSync(path.join(folder, filename), "utf-8");
     const { data } = matter(file);
